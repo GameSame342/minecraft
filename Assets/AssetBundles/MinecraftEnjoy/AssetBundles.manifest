@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 145031310
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: app
+      Dependencies: {}
+    Info_1:
+      Name: minecraft
+      Dependencies: {}
